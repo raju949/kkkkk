@@ -1,0 +1,278 @@
+.navbar_logo{
+    height: 70px;
+    width: 180px;
+    margin-left: 30px;
+}
+.navbar_hamburger{
+    font-weight: 700;
+    font-size:18px;
+    
+    
+}
+.karna_banner{
+    background-image: url(meet-1.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.header_banner{
+    color:brown;
+}
+.header_service{
+    padding-bottom: 10px;
+    font-family:sans-serif;
+    font-weight: 700;
+}
+.banner_h{
+    color: white;
+    font-size: 50px;
+}
+.para_h{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.bg_container{
+    background-color:white;
+}
+.box1{
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-width: 2px;
+    border-color:yellow;
+    border-style: solid;
+    
+}
+.itservices_image{
+    height: 90%;
+    border-radius: 9px;
+
+
+}
+.box_it{
+    height:70vh ;
+    
+    border-radius: 9px;
+    
+}
+.service_headerbox{
+    font-family:roboto;
+    font-size: 30px;
+
+}
+.bg-image{
+    background-image: url(0d591d700c751b723cc5ab8f6aa96b14.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.intro_h{
+    font-family: roboto;
+}
+.intro_p{
+    font-size: 17px;
+    
+}
+.bg_carousel{
+    background-image: url(desktop-wallpaper-best-61-business-business-for-your-mobile-tablet-explore-business-background-business-business-meeting-business-corporate-meeting.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.carousel_img{
+    height: 50vh;
+    width: 70vw;
+}
+.carousel_padding{
+    padding-left: 200px;
+}
+
+    
+
+.review{
+height: 70vh;
+width: 50vw;
+border-radius: 50%;
+
+    
+}
+.bg-review{
+    background-image: url(4983859.jpg);
+    background-size: cover;
+    height: 100vh;
+    ;
+}
+.review-p{
+    font-size: 23px;
+}
+.review-head{
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 27px;
+    margin-top: 20px;
+    background-image:url(bg-review.jpg) ;
+    color: white;
+    background-size: cover;
+}
+
+.follow-us{
+    color: black;
+    font-size: 30px;
+   margin-left: 40px;
+}
+.follow-h{
+    color: brown;
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.review-header{
+    font-size: 50px;
+    color: white;
+    font-weight:500 ;
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+.hr-line{
+    background-color: red;
+    width: 20vw;
+    height: 3px;
+}
+.bg-contact{
+    background-color:white
+    
+}
+.contact-logo{
+    width: 280px;
+    height: 130px;
+    margin-top: 50px;
+}
+.contact-h{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 500;
+    
+    margin-bottom: 40px;
+    
+}
+.contact-hfu{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 500;
+  
+    margin-bottom: 40px;
+}
+.contact-head{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 50px;
+    background-image:url(followus1.avif) ;
+    color: white;
+}
+.contact-p{
+    color: black;
+   
+}
+.contact-para{
+    color: black;
+    font-size: 12px;
+    font-family: roboto;
+    
+}
+.contact-para1{
+    color: black;
+    font-size: 10px;
+    font-family: roboto;
+    
+}
+.icons-followus{
+    font-size: 20px;
+    padding-right: 22px;
+    color: white;
+}
+.card-fu{
+    background-color: brown;
+    border-radius: 40px;
+    padding: 10px;
+    
+}
+.banner-car{
+    height: 100vh;
+    width: 100%;
+}
+.margin-contact{
+    margin-right: 150px;
+}
+.icons{
+    font-size: 20px;
+    
+}
+.hr-line-contact{
+    background-color: white;
+    height: 2px;
+    width: 120px;
+}
+.icons-padd{
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+    font-family: roboto;
+    
+}
+.bg-copyrights{
+   
+    color: white;
+    background-color: grey;
+    
+}
+
+.head-wcu{
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-left: 27px;
+    margin-top: 20px;
+    background-color: brown;
+    color: white;
+    width: 50vw;
+    padding-left: 20px;
+}
+.hr-head-contact{
+    background-color: white;
+    height: 3px;
+    
+}
+.bg-followus{
+    height: 50vh;
+}
+
+
+
+
+
+.itservice-mhead{
+   color: white;
+}
+.card{
+    width: 400px;
+   
+}
+.itservice-img{
+    padding: 20px;
+}
+.itservice-p{
+    font-family: sans-serif;
+    font-size: 13px;
+    margin: 17px;
+}
+.select-it{
+    border: 0px;
+}
+.summary-it-head{
+    font-family: roboto;
+    font-weight: 600;
+}
+.summary-it{
+    font-family: sans-serif;
+    color: lightslategray;
+}
